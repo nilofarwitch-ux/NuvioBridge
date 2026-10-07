@@ -1,6 +1,7 @@
 plugins {
     id("com.android.application")
 }
+
 android {
     namespace = "com.nuvio.bridge"
     compileSdk = 35
@@ -15,5 +16,5 @@ android {
 }
 
 dependencies {
-    implementation("io.github.dokar3:quickjs-kt:1.0.14")
+    implementation("io.github.dokar3:quickjs-kt:1.0.5")
 }
