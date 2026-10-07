@@ -9,7 +9,7 @@ android {
     defaultConfig {
         applicationId = "com.nuvio.bridge"
         minSdk = 23
-        targetSdk = 35
+        targetSdk = 36
         versionCode = 1
         versionName = "0.1.0"
     }
