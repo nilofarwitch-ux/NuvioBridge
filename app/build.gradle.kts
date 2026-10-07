@@ -17,4 +17,5 @@ android {
 
 dependencies {
     implementation("io.github.dokar3:quickjs-kt:1.0.5")
+implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.11.0")
 }
